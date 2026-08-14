@@ -17,11 +17,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Download para Windows da interface gráfica para as ações mais comuns em um repositório -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Usar quando estiver em um sitema operacional Windows -->
 
 ---
 
@@ -31,11 +31,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Download para Mac da interface gráfica para as ações mais comuns em um repositório -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Usar quando estiver em um sitema operacional Mac -->
 
 ---
 
@@ -45,19 +45,19 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Download para outras plataformas da interface gráfica para as ações mais comuns em um repositório. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Usar quando estiver em um sitema operacional diferente de Windows ou Mac -->
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. GitHub para Windows
-- [ ] 2. GitHub para Mac
-- [ ] 3. Git para todas as plataformas
+- [ x ] 1. GitHub para Windows
+- [ x ] 2. GitHub para Mac
+- [ x ] 3. Git para todas as plataformas
 
 ---
 
